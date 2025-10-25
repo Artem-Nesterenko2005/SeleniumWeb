@@ -1,0 +1,9 @@
+{
+  "PageLoadStrategy": "Eager",
+  "Language": "--lang=en-US",
+  "OpenMode": "--incognito",
+  "URL": "https://demoqa.com/",
+  "WaitTime": 10,
+  "ScreenModeMaximize": true,
+  "BrowserType": "chrome"
+}

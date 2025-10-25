@@ -1,0 +1,30 @@
+{
+  "UserModel": [
+    {
+      "FirstName": "John",
+      "LastName": "Snow",
+      "Email": "knownothing@example.com",
+      "Age": 30,
+      "Salary": 3000,
+      "Department": "alpha"
+    },
+
+    {
+      "FirstName": "Buttercup",
+      "LastName": "Cumbersnatch",
+      "Email": "BudapestCandygram@mail.ru",
+      "Age": 41,
+      "Salary": 2000,
+      "Department": "beta"
+    }
+  ],
+
+  "TestData": {
+    "AlertText": "You clicked a button",
+    "AlertConfirmText": "Do you confirm action?",
+    "ConfirmBoxText": "You selected Ok",
+    "PromptText": "Please enter your name",
+    "ParentFrameText": "Parent frame",
+    "ChildFrameText": "Child Iframe"
+  }
+}
